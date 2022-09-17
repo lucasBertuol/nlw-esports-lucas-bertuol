@@ -1,6 +1,6 @@
 # NLW eSports 
 
-![preview](./nlw%20esports%20lucas%20bertuol/.github/preview.png)
+![preview](./.github/preview.png)
 
 > Trilha Explorer
 
